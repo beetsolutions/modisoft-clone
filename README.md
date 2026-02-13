@@ -1,10 +1,14 @@
 # Modisoft Clone - Modern Software Solutions Website
 
-A professional, modern website clone built with Next.js 14, TypeScript, and Tailwind CSS. This project showcases a complete business website with responsive design, smooth animations, and modern UI/UX practices.
+A professional, modern website clone built with Next.js 15, TypeScript, and Tailwind CSS. This project showcases a complete business website with responsive design, smooth animations, and modern UI/UX practices.
+
+## 🔒 Security
+
+**Latest Update:** Upgraded to Next.js 15.5.12 to address critical security vulnerabilities including DoS attacks and authorization bypass issues. The project now has **zero npm audit vulnerabilities**.
 
 ## 🚀 Features
 
-- ⚡ Built with Next.js 14 (App Router)
+- ⚡ Built with Next.js 15.5.12 (App Router) - Security Patched
 - 🔷 TypeScript for type safety
 - 🎨 Tailwind CSS for styling
 - 📱 Fully responsive design (mobile, tablet, desktop)
@@ -12,6 +16,7 @@ A professional, modern website clone built with Next.js 14, TypeScript, and Tail
 - ♿ Accessibility best practices
 - 🔍 SEO optimized
 - 🎯 Clean, maintainable code structure
+- 🔒 Zero security vulnerabilities
 
 ## 📋 Sections
 
@@ -25,10 +30,10 @@ A professional, modern website clone built with Next.js 14, TypeScript, and Tail
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 14.2.21
+- **Framework**: Next.js 15.5.12 (Security Patched)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS 3.4.17
-- **Font**: Inter (Google Fonts)
+- **Font**: System fonts (optimized for performance)
 - **Icons**: SVG icons
 
 ## 📦 Installation
